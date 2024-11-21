@@ -34,7 +34,7 @@ CORS_ALLOW_METHODS = [
 SECRET_KEY = 'django-insecure-r+s3fuu3uw=mq03wh_mug(yl=i!d8yu=8d@g-sh4&2q2@8je-t'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["*"]
 
